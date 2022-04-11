@@ -14,21 +14,22 @@
   
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=Firebase&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?&style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nginx-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?&style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?&style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nginx-009639?&style=flat-square&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Heroku-430098?&style=flat-square&logo=Heroku&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jira Software-0052CC?&style=flat-square&logo=Jira Software&logoColor=white"/></a>
 
 - AWS EC2에서 Ubuntu 환경 구축 경험
 - AWS RDS 생성 및 EC2 Ubuntu와 연동 경험
@@ -39,6 +40,8 @@
 - Python numpy를 이용한 데이터 분석 경험
 - React를 이용한 Netflix 클론코딩 경험
 - node.js(express), MongoDB를 이용한 Youtube 클론코딩 경험
+- Heroku를 이용한 서버 호스팅 경험
+- Jira Software를 이용한 협업 경험
 
 ### 앞으로 공부할 것들
 - Spring boot
