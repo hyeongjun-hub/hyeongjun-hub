@@ -11,6 +11,7 @@
 ## Skill
 **Tech**: 
 한 번 이상 다루어 본 기술들
+  
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
@@ -33,14 +34,36 @@
 - Spring boot
 - Elastric search
 - Redis
+- JPA / Hibernate
+- Docker / Kubernetes
 
 ## Education
 **연세대 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
-데이터베이스(21-2)
-운영체제(22-1)
+- 데이터베이스(21.08 ~ 21.11)
+- 소프트웨어공학(21.08 ~ 21.11)
+- 운영체제(22.03 ~ 진행중)
+
+**연세대학교 SW집중교육**
+- Java programming 수료 (20.12 ~ 21.01)
+- React.js 수료(21.06 ~ 21.07)
+
+**Boot Camp**
+- Rising camp 4기 서버(22.02 ~ 22.04)
 
 **Study**
-- 연세대 클라우드/앱개발 스터디(2021.03.23 ~ 진행중)
+- 연세대 클라우드/앱개발 스터디(21.03 ~ 진행중)
 
+## Projects
+### 라이징 캠프에서 진행한 아이디어스 어플 모의외주 프로젝트
 
-
+- 깃허브 : https://github.com/hyeongjun-hub/Idus_server
+- 노션 : https://funny-gourd-490.notion.site/d923d53bf3ff4eb287c4311a3630397d
+- 개발 언어/라이브러리 : java8/springboot, mysql, mybatis, naver sens, aws ec2, aws rds, firebase, nginx
+- 내용
+  - 스프링 MVC
+  - AWS EC2 ubuntu 환경을 구축
+  - AWS RDS를 EC2와 연동
+  - nginx reverse proxy 설정
+  - kakao (OAuth2.0) 소셜로그인 사용
+  - naver SENS sms 전송 서비스 사용
+  - 스프링 시큐리티 (jwt) 사용
