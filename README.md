@@ -59,7 +59,7 @@
 - Java programming 수료 (20.12 ~ 21.01)
 - React.js 수료(21.06 ~ 21.07)
 
-**Boot Camp & Education**
+**Boot Camp**
 - Rising camp 4기 서버(22.02 ~ 22.04)
 - 쿠버네티스 전문가 양성 과정 5기 (22.08 ~ 22.11)
 
