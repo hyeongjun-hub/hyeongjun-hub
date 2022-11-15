@@ -39,20 +39,18 @@
 - Amazon S3 이용한 데이터 업로드 경험
 - Firebase를 이용한 데이터 업로드 경험
 - Spring Boot, Nginx, MySql을 이용한 서버 구축
-- Unity를 이용한 chatbot 구현 경험
-- Python numpy를 이용한 데이터 분석 경험
-- React를 이용한 Netflix 클론코딩 경험
-- node.js(express), MongoDB를 이용한 Youtube 클론코딩 경험
+- React를 이용한 웹 페이지 구축 경험
+- node.js(express), MongoDB를 이용한 웹 페이지 구축 경험
 - Heroku를 이용한 서버 호스팅 경험
 - Jira Software를 이용한 협업 경험
+- k8s로 웹 서버 배포 경험
+- 웹 서버 dockerizing 경험
+- Jenkins 파이프라인 구축 경험
 
 ### 앞으로 공부할 것들
-- Spring boot
 - Elastric search
 - Redis
-- JPA / Hibernate
 - Docker / Kubernetes
-- React
 
 ## Education
 **연세대 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
@@ -73,7 +71,7 @@
 
 - 깃허브 : https://github.com/hyeongjun-hub/Idus_server
 - 노션 : https://funny-gourd-490.notion.site/d923d53bf3ff4eb287c4311a3630397d
-- 개발 언어/라이브러리 : java8/springboot, mysql, mybatis, naver sens, aws ec2, aws rds, firebase, nginx
+- 개발 언어/라이브러리 : java8/springboot, mysql, mybatis, naver sens, AWS EC2(ubuntu), AWS RDS, firebase, nginx
 - 내용
   - 스프링 MVC
   - AWS EC2 ubuntu 환경을 구축
@@ -82,3 +80,16 @@
   - kakao (OAuth2.0) 소셜로그인 사용
   - naver SENS sms 전송 서비스 사용
   - 스프링 시큐리티 (jwt) 사용
+ 
+### Kubernetes에서 마인크래프트 게임을 배포하는 프로젝트
+
+- 깃허브 : https://github.com/MineOps-G2
+- 시연영상 : https://drive.google.com/file/d/1zy-fsmdWRV7U4ZyqiNni-XMVMzf8wnAp/view?usp=sharing
+- 문서: https://docs.google.com/document/d/1Fp6vL2id-nDGVZKUIMvwgMCI8jKBR7NB/edit
+- 개발 언어/라이브러리 : AWS EKS, AWS EC2(ubuntu), AWS ECR, Docker, Jenkins, ArgoCD, Grafana, Prometheus, cAdvisor, ElasticSearch, Fluent-bit, Kibana, Slack
+- 내용 
+  - EKS에서 마인크래프트 멀티서버 구축
+  - 마인크래프트 서버 모니터링 / 로깅
+  - 젠킨스 파이프라인 구축
+  - ECR 이미지 업로드
+  - Slack 연동
