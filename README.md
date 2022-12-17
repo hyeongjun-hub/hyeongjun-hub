@@ -48,9 +48,7 @@
 - Jenkins 파이프라인 구축 경험
 
 ### 앞으로 공부할 것들
-- Elastric search
-- Redis
-- Docker / Kubernetes
+- Monitoring / Logging
 
 ## Education
 **연세대 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
