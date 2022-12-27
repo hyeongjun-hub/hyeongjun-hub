@@ -63,6 +63,7 @@
 
 **Study**
 - 알고리즘 스터디(22.03 ~ 진행중)
+  - https://pinnate-goldfish-74c.notion.site/2-5f5895024f4a470eab8fb42b377d6c51
 
 ## Projects
 ### 라이징 캠프에서 진행한 아이디어스 어플 모의외주 프로젝트
