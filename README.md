@@ -1,5 +1,5 @@
 # 조형준
-- 이메일 : chogudwns@naver.com
+- 이메일 : chogudwns@gmail.com
 - 노션 : https://funny-gourd-490.notion.site/TIL-681de6b68b7a492fb24de03f2b9cfbc9
 - 깃허브 : https://github.com/hyeongjun-hub
 
