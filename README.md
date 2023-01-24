@@ -51,7 +51,7 @@
 - Monitoring / Logging
 
 ## Education
-**연세대 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
+**연세대학교 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
 
 **연세대학교 SW 집중교육**
 - Java programming 수료 (20.12 ~ 21.01)
@@ -69,6 +69,7 @@
 ### 라이징 캠프에서 진행한 아이디어스 어플 모의외주 프로젝트
 
 - 깃허브 : https://github.com/hyeongjun-hub/Idus_server
+- 시연영상 : https://drive.google.com/file/d/1HRzNq9OVmKyOZ5VeeWCmxL38OgMtTnSr/view?usp=sharing
 - 노션 : https://funny-gourd-490.notion.site/d923d53bf3ff4eb287c4311a3630397d
 - 개발 언어/라이브러리 : java8/springboot, mysql, mybatis, naver sens, AWS EC2(ubuntu), AWS RDS, firebase, nginx
 - 내용
