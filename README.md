@@ -33,6 +33,8 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Heroku-430098?&style=flat-square&logo=Heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira Software-0052CC?&style=flat-square&logo=Jira Software&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?&style=flat-square&logo=Jenkins&logoColor=white"/></a>
 
 - AWS EC2에서 Ubuntu 환경 구축 경험
 - AWS RDS 생성 및 EC2 Ubuntu와 연동 경험
@@ -45,6 +47,7 @@
 - Jira Software를 이용한 협업 경험
 - AWS EKS로 웹 서버 배포 경험
 - 웹 서버 dockerizing 경험
+- Kuberentes 환경 배포 경험
 - Jenkins 파이프라인 구축 경험
 
 ### 앞으로 공부할 것들
