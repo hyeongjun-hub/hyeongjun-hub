@@ -36,22 +36,23 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?&style=flat-square&logo=Jenkins&logoColor=white"/></a>
 
+- AWS EKS로 웹 서버 배포 경험
+- Jenkins 파이프라인 구축 경험
+- Kuberentes 환경 배포 경험
 - AWS EC2에서 Ubuntu 환경 구축 경험
 - AWS RDS 생성 및 EC2 Ubuntu와 연동 경험
-- Amazon S3 이용한 데이터 업로드 경험
-- Firebase를 이용한 데이터 업로드 경험
-- Spring Boot, Nginx, MySql을 이용한 서버 구축
+- Amazon S3, Firebase를 이용한 데이터 스토리지 구축
+- Nginx, Spring Boot, MySql을 이용한 3-tier 서버 구축
 - React를 이용한 웹 페이지 구축 경험
-- node.js(express), MongoDB를 이용한 웹 페이지 구축 경험
+- node.js(express), MongoDB를 이용한 웹 페이지 + 서버 구축 경험
 - Heroku를 이용한 서버 호스팅 경험
-- Jira Software를 이용한 협업 경험
-- AWS EKS로 웹 서버 배포 경험
-- 웹 서버 dockerizing 경험
-- Kuberentes 환경 배포 경험
-- Jenkins 파이프라인 구축 경험
+- Git hub, Jira Software를 이용한 협업 경험
 
 ### 앞으로 공부할 것들
 - Monitoring / Logging
+- Go lang
+- shell script
+- Terraform
 
 ## Education
 **연세대학교 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
