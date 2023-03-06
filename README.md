@@ -38,20 +38,20 @@
 
 - AWS EKS로 웹 서버 배포 경험
 - Jenkins 파이프라인 구축 경험
-- Kuberentes 환경 배포 경험
+- Kubernetes 환경 배포 경험
 - AWS EC2에서 Ubuntu 환경 구축 경험
 - AWS RDS 생성 및 EC2 Ubuntu와 연동 경험
 - Amazon S3, Firebase를 이용한 데이터 스토리지 구축
 - Nginx, Spring Boot, MySql을 이용한 3-tier 서버 구축
 - React를 이용한 웹 페이지 구축 경험
-- node.js(express), MongoDB를 이용한 웹 페이지 + 서버 구축 경험
+- Node.js(express.js), MongoDB를 이용한 웹 페이지 + 서버 구축 경험
 - Heroku를 이용한 서버 호스팅 경험
 - Git hub, Jira Software를 이용한 협업 경험
 
 ### 앞으로 공부할 것들
 - Monitoring / Logging
 - Go lang
-- shell script
+- Shell script
 - Terraform
 
 ## Education
@@ -82,9 +82,9 @@
   - 스프링 MVC
   - AWS EC2 ubuntu 환경을 구축
   - AWS RDS를 EC2와 연동
-  - nginx reverse proxy 설정
-  - kakao (OAuth2.0) 소셜로그인 사용
-  - naver SENS sms 전송 서비스 사용
+  - Nginx reverse proxy 설정
+  - Kakao (OAuth2.0) 소셜로그인 사용
+  - Naver SENS sms 전송 서비스 사용
   - 스프링 시큐리티 (jwt) 사용
  
 ### Kubernetes에서 마인크래프트 게임을 배포하는 프로젝트
