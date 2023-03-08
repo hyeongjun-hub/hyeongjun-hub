@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?&style=flat-square&logo=Jenkins&logoColor=white"/></a>
 
 - AWS EKS로 웹 서버 배포 경험
-- Jenkins 파이프라인 구축 경험
+- Jenkins CI/CD 파이프라인 구축 경험
 - Kubernetes 환경 배포 경험
 - AWS EC2에서 Ubuntu 환경 구축 경험
 - AWS RDS 생성 및 EC2 Ubuntu와 연동 경험
