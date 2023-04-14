@@ -71,9 +71,9 @@
 
 **Boot Camp**
 - Rising camp (Server) 4기 우수수료(22.02 ~ 22.04)
-  - https://funny-gourd-490.notion.site/8e41e07472d44ab7a4643f478267cb24
+  - https://hyeongjun-hub.notion.site/8e41e07472d44ab7a4643f478267cb24
 - 쿠버네티스 전문가 양성 과정 5기 우수수료(22.08 ~ 22.11)
-  - https://funny-gourd-490.notion.site/Goorm-5-3fbd3ed1276c4dc99874e66bcb490670 
+  - https://hyeongjun-hub.notion.site/Goorm-5-3fbd3ed1276c4dc99874e66bcb490670
 
 **Study**
 - [알고리즘 스터디](https://www.notion.so/97337a38ed6f437db78954adaea81344) (22.03 ~ 진행 중)
