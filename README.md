@@ -76,9 +76,9 @@
   - https://funny-gourd-490.notion.site/Goorm-5-3fbd3ed1276c4dc99874e66bcb490670 
 
 **Study**
-- **[알고리즘 스터디](https://www.notion.so/97337a38ed6f437db78954adaea81344) (**22.03 ~ 진행 중)
-- **[CS 면접 스터디](https://www.notion.so/91ae262ecd3d49d3a402dc2acd4aea2a) (**23.03 ~ 진행 중)
-- **[AWS SAA 자격증 준비 스터디](https://www.notion.so/AWS-SAA-8ded051ed0fc43f7a5ae4248a5bc4534) (**23.03 ~ 진행 중)
+- [알고리즘 스터디](https://www.notion.so/97337a38ed6f437db78954adaea81344) (22.03 ~ 진행 중)
+- [CS 면접 스터디](https://www.notion.so/91ae262ecd3d49d3a402dc2acd4aea2a) (23.03 ~ 진행 중)
+- [AWS SAA 자격증 준비 스터디](https://www.notion.so/AWS-SAA-8ded051ed0fc43f7a5ae4248a5bc4534) (23.03 ~ 진행 중)
 
 ## Projects
 ### Kubernetes에서 마인크래프트 게임을 배포하는 프로젝트
