@@ -20,29 +20,28 @@
 ## Skill
 **Tech**: 
 한 번 이상 다루어 본 기술들
-  
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nginx-009639?&style=flat-square&logo=NGINX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?&style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Html5-E34F26?&style=flat-square&logo=Html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=CSS3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Sass-CC6699?&style=flat-square&logo=Sass&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?&style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?&style=flat-square&logo=Spring Boot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Nginx-009639?&style=flat-square&logo=NGINX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Heroku-430098?&style=flat-square&logo=Heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira Software-0052CC?&style=flat-square&logo=Jira Software&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?&style=flat-square&logo=Kubernetes&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jenkins-D24939?&style=flat-square&logo=Jenkins&logoColor=white"/></a>
+
 
 - AWS EKS로 마인크래프트 서버 배포 경험
 - Jenkins CI/CD 파이프라인 구축 경험
@@ -61,6 +60,9 @@
 - Monitoring / Logging
 - Go lang
 - Terraform
+
+## Certification
+- AWS Certified Solutions Architect – Associate
 
 ## Education
 **연세대학교 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
@@ -99,13 +101,10 @@
 - 깃허브 : https://github.com/hyeongjun-hub/Idus_server
 - 시연영상 : https://drive.google.com/file/d/1HRzNq9OVmKyOZ5VeeWCmxL38OgMtTnSr/view?usp=sharing
 - 노션 : https://funny-gourd-490.notion.site/d923d53bf3ff4eb287c4311a3630397d
-- 개발 언어/라이브러리 : java8/springboot, mysql, mybatis, naver sens, AWS EC2(ubuntu), AWS RDS, firebase, nginx
+- 개발 언어/라이브러리 : java8/springboot, MySQL, Mybatis, Naver SENS, AWS EC2(ubuntu17.02), AWS RDS, Firebase, Nginx
 - 내용
   - 스프링 MVC
-  - AWS EC2 ubuntu 환경을 구축
-  - AWS RDS를 EC2와 연동
+  - AWS EC2 ubuntu 18.04 환경을 구축
+  - AWS RDS MySQL 연동
   - Nginx reverse proxy 설정
   - Kakao (OAuth2.0) 소셜로그인 사용
-  - Naver SENS sms 전송 서비스 사용
-  - 스프링 시큐리티 (jwt) 사용
-
