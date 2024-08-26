@@ -4,18 +4,13 @@
 - 깃허브 : https://github.com/hyeongjun-hub
 - 블로그 : https://velog.io/@hyeongjun-hub
 
-![Metrics](https://metrics.lecoq.io/hyeongjun-hub?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FSeoul)
 
 ## Summary
-22년 8월 의공학부와 컴퓨터공학과 복수 전공을 졸업하였고 현재는 (주)알에스엔에 DevOps Engineer로 근무하고 있습니다.
-웹 프론트엔드, 백엔드를 거쳐 DevOps 엔지니어의 꿈을 꾸고 공부 중입니다.
-서버 인프라의 시스템 구조를 정확히 파악하고 새로운 기술을 유연하게 도입하여 빌드와 배포 작업의 시간을 단축하는 일을 하고 싶습니다. 
+신속한 장애 대응과 적절한 기술 도입을 통해 애플리케이션 개발자들에게 최적의 환경을 제공하는 DevOps 엔지니어입니다.
 
-### 깨달음을 즐기는 사람
-끊임없이 배우고 도전하며 깨달음을 즐기는 신입 DevOps Engineer입니다. 한 곳에 고여있고 뒤처지는 것을 싫어하는 성격 때문에 개발의 길을 선택했었고 지금은 알면 알수록 재밌는 인프라 구조와 새로운 DevOps 기술들을 배우는 즐거움에 살고 있습니다. 아직 아는 것이 많지 않지만 배울 것이 많기 때문에 행복한 사람입니다.
-
-### 배운 것을 기록하는 사람
-공부 도중 궁금한 점은 바로 찾아보고 기록하는 습관을 갖고 있습니다. 새로 알게 된 내용을 [notion](https://www.notion.so/TIL-22-01-681de6b68b7a492fb24de03f2b9cfbc9)과 [blog](https://velog.io/@hyeongjun-hub)에 설명 형식으로 글을 적고 개발자 스터디 모임에 참가하여 말로 설명합니다. 이를 통해 쉽게 잊어버리지 않을 수 있고 기록한 내용으로 복습 또한 가능합니다.
+### 끊임없이 성장하는 사람
+### 도움을 즐기는 사람
+### 지식을 나누는 사람
 
 ## Skill
 **Tech**: 
@@ -25,13 +20,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Nginx-009639?&style=flat-square&logo=NGINX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-D24939?&style=flat-square&logo=Jenkins&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?&style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Html5-E34F26?&style=flat-square&logo=Html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?&style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Firebase-FFCA28?&style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?&style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&style=flat-square&logo=MySQL&logoColor=white"/></a>
@@ -39,26 +30,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?&style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Heroku-430098?&style=flat-square&logo=Heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira Software-0052CC?&style=flat-square&logo=Jira Software&logoColor=white"/></a>
 
 
-- AWS EKS로 마인크래프트 서버 배포 경험
-- Jenkins CI/CD 파이프라인 구축 경험
-- ArgoCD를 통한 cluster와 github repository 연동 경험
-- ERD 설계 후 AWS RDS MySQL DB 구축 및 EC2 Ubuntu와 연동 경험
-- Amazon S3, Firebase를 이용한 데이터 스토리지 구축
-- Nginx, Spring Boot, MySql을 이용한 3-tier 서버 구축
-- React를 이용한 웹 페이지 구축 경험
-- Node.js(express.js), MongoDB를 이용한 웹 페이지 + 서버 구축 경험
-- Heroku를 이용한 서버 호스팅 경험
-- Github, Jira Software를 이용한 협업 경험
-- Go lang을 이용한 웹 페이지 Scrapping 프로세스 구축
-
-### 앞으로 공부할 것들
-- Monitoring / Logging
-- Go lang
-- Terraform
 
 ## Certification
 - AWS Certified Solutions Architect – Associate
@@ -83,28 +57,86 @@
 - [DevOps 스터디] (23.04 ~ 24.03)
 
 ## Projects
-### Kubernetes에서 마인크래프트 게임을 배포하는 프로젝트
+### **On-premise Kubernetes 클러스터 유지 보수 및 관리 (23.07 ~ 현재)**
 
-- 깃허브 : https://github.com/MineOps-G2
-- 시연영상 : https://drive.google.com/file/d/1zy-fsmdWRV7U4ZyqiNni-XMVMzf8wnAp/view?usp=sharing
-- 문서: https://docs.google.com/document/d/1Fp6vL2id-nDGVZKUIMvwgMCI8jKBR7NB/edit
-- 개발 언어/라이브러리 : AWS EKS, AWS EC2(ubuntu), AWS ECR, Docker, Jenkins, ArgoCD, Grafana, Prometheus, cAdvisor, ElasticSearch, Fluent-bit, Kibana, Slack
-- 내용 
-  - EKS에서 마인크래프트 멀티서버 구축
-  - 마인크래프트 서버 모니터링 / 로깅
-  - 젠킨스 파이프라인 구축
-  - ECR 이미지 업로드
-  - Slack 연동
+**기여도: 40% (관리자 총 3명)**
 
-### 라이징 캠프에서 진행한 아이디어스 어플 모의외주 프로젝트
+**Tech stack**
 
-- 깃허브 : https://github.com/hyeongjun-hub/Idus_server
-- 시연영상 : https://drive.google.com/file/d/1HRzNq9OVmKyOZ5VeeWCmxL38OgMtTnSr/view?usp=sharing
-- 노션 : https://funny-gourd-490.notion.site/d923d53bf3ff4eb287c4311a3630397d
-- 개발 언어/라이브러리 : java8/springboot, MySQL, Mybatis, Naver SENS, AWS EC2(ubuntu17.02), AWS RDS, Firebase, Nginx
-- 내용
-  - 스프링 MVC
-  - AWS EC2 ubuntu 18.04 환경을 구축
-  - AWS RDS MySQL 연동
-  - Nginx reverse proxy 설정
-  - Kakao (OAuth2.0) 소셜로그인 사용
+- Ubuntu, Kubernetes, Calico, MetalLB, HAProxy, Istio, Kiali, Prometheus, Grafana, Harbor, Keycloak, OAuth2 Proxy, Minio, OpenEBS, Helm, k9s, K6
+
+**프로젝트 상세**
+
+- 클러스터 버전 업그레이드(v1.25.9 → v1.26.9) 및 [업그레이드 정책](https://www.notion.so/6d62e76fa2234929adf87147a0ba956b?pvs=21) 구축
+- kubernetes manifest로 배포되있는 legacy들을 Helm chart로 전환
+- keycloak과 oauth2-proxy, istio를 활용해 사내 sso구축
+- harbor 이미지, 차트 저장소 구축
+- 클러스터 모니터링을 위한 Grafana dashboard 생성
+- [네트워크 이슈 대응](https://velog.io/@hyeongjun-hub/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%AC%B8%EC%A0%9C-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+
+### **사내 개발자 플랫폼 구축 (23.11 ~ 현재)**
+
+애플리케이션 개발자가 쿠버네티스를 몰라도 GUI로 손쉽게 클러스터에 앱을 배포할 수 있도록 제작한 개발자 플랫폼. 
+
+**Role:** **api-server, build-daemon(이미지 빌드 프로세스), 배포 템플릿**
+
+**기여도: 33%**
+
+**프로젝트 상세**
+- 사용자는 git 주소와 옵션값 입력으로 사내 쿠버네티스 환경에 배포할 수 있음
+- go를 사용해 frontend, api-server, build-daemon, controller로 마이크로서비스 개발
+- operator 패턴을 활용, [kube-builder](https://github.com/kubernetes-sigs/kubebuilder) 오픈소스 사용
+- 현재 alpha 릴리즈
+    - 지원 템플릿: fastapi, triton, dockerfile
+
+### **REST API 사용자 인증 및 로그 모니터링 시스템 구축 (24.08)**
+
+사내 AI 기술을 제공하는 REST API를 외부 익명의 사용자들에게 제공하기 위해 API 호출 시 사용자 로그를 남기고 모니터링 및 차단할 수 있는 시스템 구축
+
+**기여도: 90%**
+
+**프로젝트 상세**
+- Keycloak을 이용한 OIDC 제공
+- Istio access log를 이용해 사용자 로깅
+- Vector와 OpenSearch를 이용해 로그 수집 & 적재
+- Grafana 대시보드로 수집한 로그를 모니터링
+    - 트래픽 공격이나 비정상적인 사용자들을 탐지
+- Istio authorization policy로 사용자 인증 및 차단
+
+### [**ArgoCD를 이용한 사내 CI/CD 파이프라인 구축](https://www.notion.so/108f03cd5949484e92abad6a109469bc?pvs=21) (24.02 ~ 24.03)**
+
+기존에 gitlab으로만 구축되었던 파이프라인에 ArgoCD를 도입하여 CD의 role을 ArgoCD가 가짐
+
+개발자들이 직접 쿠버네티스에 배포되어있는 애플리케이션을 확인하고 운영할 수 있음
+
+**기여도: 100%**
+
+**Tech stack**
+- ArgoCD, gitlab-ci, Harbor, Helm, Telegram, Prometheus, Grafana, Minio
+
+**프로젝트 상세**
+- ArgoCD PoC를 통해 ArgoCD가 가져올 기대효과 측정
+- ArgoCD 구축으로 gitops 패턴 도입
+- CI/CD 파이프라인 구축 가이드 작성
+- 배포/장애 알림 시스템 구축으로 개발자들이 빠른 이슈 대응 가능해짐
+- [gitlab-ci local](https://pypi.org/project/gitlabci-local/) 도입으로 파이프라인 테스트 용이성 증가
+- gitlab-ci의 cache기능을 활용해 minio에 node_module을 캐시
+    - 기존 2분 걸리는 다운로드 시간을 cache hit시 2초로 줄임
+
+### [**Kubernetes 환경 마인크래프트 배포 프로젝트](https://www.notion.so/Kubernetes-b896b564fa1a46e3a028bc88beddb557?pvs=21) (22.10 ~ 22.11)**
+
+**기여도: 25%**
+
+**Role: 풀스택 개발, CI/CD 파이프라인 구축**
+
+**Tech stack**
+- EKS, EC2, ECR, Jenkins, ArgoCD, Github Webhook, Slack
+
+### [아이디어스 어플 클론코딩 프로젝트](https://www.notion.so/d923d53bf3ff4eb287c4311a3630397d?pvs=21) (22.04 ~ 22.05)
+
+**기여도: 50%**
+
+**Role:** **Backend 개발, aws 인프라 관리**
+
+**Tech stack**
+- Java, Spring Boot, EC2, RDS(MySQL), Mybatis, Nginx
