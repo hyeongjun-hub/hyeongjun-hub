@@ -37,27 +37,6 @@
 ## Certification
 - AWS Certified Solutions Architect – Associate
 
-## Education
-**연세대학교 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
-
-**연세대학교 SW 집중교육**
-- Java programming 수료 (20.12 ~ 21.01)
-- React.js 수료(21.06 ~ 21.07)
-
-**Boot Camp**
-- Rising camp (Server) 4기 우수수료(22.02 ~ 22.04)
-  - https://hyeongjun-hub.notion.site/8e41e07472d44ab7a4643f478267cb24
-- 쿠버네티스 전문가 양성 과정 5기 우수수료(22.08 ~ 22.11)
-  - https://hyeongjun-hub.notion.site/Goorm-5-3fbd3ed1276c4dc99874e66bcb490670
-
-**Study**
-- [알고리즘 스터디](https://www.notion.so/97337a38ed6f437db78954adaea81344) (22.03 ~ 23.08)
-- [CS 면접 스터디](https://www.notion.so/91ae262ecd3d49d3a402dc2acd4aea2a) (23.03 ~ 23.06)
-- [AWS SAA 자격증 준비 스터디](https://www.notion.so/AWS-SAA-8ded051ed0fc43f7a5ae4248a5bc4534) (23.03 ~ 23.05)
-- [DevOps 스터디] (23.04 ~ 24.03)
-- 사내 네트워크 스터디 (24.06 ~ 24.08)
-- 사내 쿠버네티스 스터디 (24.08 ~ 현재)
-
 ## Projects
 ### **On-premise Kubernetes 클러스터 유지 보수 및 관리 (23.07 ~ 현재)**
 
@@ -135,6 +114,27 @@
 - EKS, EC2, ECR, Jenkins, ArgoCD, Github Webhook, Slack
 
 ### [아이디어스 어플 클론코딩 프로젝트](https://www.notion.so/d923d53bf3ff4eb287c4311a3630397d?pvs=21) (22.04 ~ 22.05)
+
+## Education
+**연세대학교 미래캠퍼스 컴퓨터공학과 복수전공(2021~2022)**
+
+**연세대학교 SW 집중교육**
+- Java programming 수료 (20.12 ~ 21.01)
+- React.js 수료(21.06 ~ 21.07)
+
+**Boot Camp**
+- Rising camp (Server) 4기 우수수료(22.02 ~ 22.04)
+  - https://hyeongjun-hub.notion.site/8e41e07472d44ab7a4643f478267cb24
+- 쿠버네티스 전문가 양성 과정 5기 우수수료(22.08 ~ 22.11)
+  - https://hyeongjun-hub.notion.site/Goorm-5-3fbd3ed1276c4dc99874e66bcb490670
+
+**Study**
+- [알고리즘 스터디](https://www.notion.so/97337a38ed6f437db78954adaea81344) (22.03 ~ 23.08)
+- [CS 면접 스터디](https://www.notion.so/91ae262ecd3d49d3a402dc2acd4aea2a) (23.03 ~ 23.06)
+- [AWS SAA 자격증 준비 스터디](https://www.notion.so/AWS-SAA-8ded051ed0fc43f7a5ae4248a5bc4534) (23.03 ~ 23.05)
+- [DevOps 스터디] (23.04 ~ 24.03)
+- 사내 네트워크 스터디 (24.06 ~ 24.08)
+- 사내 쿠버네티스 스터디 (24.08 ~ 현재)
 
 **기여도: 50%**
 
