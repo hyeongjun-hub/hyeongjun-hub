@@ -8,9 +8,9 @@
 ## Summary
 신속한 장애 대응과 적절한 기술 도입을 통해 애플리케이션 개발자들에게 최적의 환경을 제공하는 DevOps 엔지니어입니다.
 
-### 끊임없이 성장하는 사람
-### 도움을 즐기는 사람
-### 지식을 나누는 사람
+- 끊임없이 성장하는 사람
+- 도움을 즐기는 사람
+- 지식을 나누는 사람
 
 ## Skill
 **Tech**: 
@@ -55,6 +55,8 @@
 - [CS 면접 스터디](https://www.notion.so/91ae262ecd3d49d3a402dc2acd4aea2a) (23.03 ~ 23.06)
 - [AWS SAA 자격증 준비 스터디](https://www.notion.so/AWS-SAA-8ded051ed0fc43f7a5ae4248a5bc4534) (23.03 ~ 23.05)
 - [DevOps 스터디] (23.04 ~ 24.03)
+- 사내 네트워크 스터디 (24.06 ~ 24.08)
+- 사내 쿠버네티스 스터디 (24.08 ~ 현재)
 
 ## Projects
 ### **On-premise Kubernetes 클러스터 유지 보수 및 관리 (23.07 ~ 현재)**
@@ -103,7 +105,7 @@
     - 트래픽 공격이나 비정상적인 사용자들을 탐지
 - Istio authorization policy로 사용자 인증 및 차단
 
-### [**ArgoCD를 이용한 사내 CI/CD 파이프라인 구축](https://www.notion.so/108f03cd5949484e92abad6a109469bc?pvs=21) (24.02 ~ 24.03)**
+### [ArgoCD를 이용한 사내 CI/CD 파이프라인 구축](https://www.notion.so/108f03cd5949484e92abad6a109469bc?pvs=21) (24.02 ~ 24.03)
 
 기존에 gitlab으로만 구축되었던 파이프라인에 ArgoCD를 도입하여 CD의 role을 ArgoCD가 가짐
 
@@ -123,7 +125,7 @@
 - gitlab-ci의 cache기능을 활용해 minio에 node_module을 캐시
     - 기존 2분 걸리는 다운로드 시간을 cache hit시 2초로 줄임
 
-### [**Kubernetes 환경 마인크래프트 배포 프로젝트](https://www.notion.so/Kubernetes-b896b564fa1a46e3a028bc88beddb557?pvs=21) (22.10 ~ 22.11)**
+### [Kubernetes 환경 마인크래프트 배포 프로젝트](https://www.notion.so/Kubernetes-b896b564fa1a46e3a028bc88beddb557?pvs=21) (22.10 ~ 22.11)
 
 **기여도: 25%**
 
